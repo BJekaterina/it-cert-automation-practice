@@ -1,3 +1,4 @@
+text is 
 ok
 print(validate_user("blue.kale", 3)) # True
 print(validate_user(".blue.kale", 3)) # Currently True, should be False
